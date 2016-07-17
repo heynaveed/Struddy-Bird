@@ -1,0 +1,19 @@
+
+music.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+musicOff
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
